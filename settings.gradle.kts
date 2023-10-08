@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "PDF App"
 include(":app")
+include(":PDF Library")
+include(":PDFh")

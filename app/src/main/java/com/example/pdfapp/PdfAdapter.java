@@ -1,7 +1,6 @@
 package com.example.pdfapp;
 
 import android.annotation.SuppressLint;
-import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.pdf.PdfRenderer;
 import android.os.ParcelFileDescriptor;
